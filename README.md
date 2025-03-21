@@ -19,6 +19,9 @@ O objetivo do projeto é aprimorar habilidades de desenvolvimento web, aplicando
 1. Clone este repositório.
 2. Abra o arquivo `index.html` em um navegador.
 
+## 🔗 Link do Projeto
+[Acesse o AluraBooks](https://alura-books-three-taupe.vercel.app/)
+
 ---
 
 ✍️ Desenvolvido durante os estudos na Alura.
