@@ -35,6 +35,4 @@ AluraBooks/
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
-## 📜 Licença
-Este projeto foi desenvolvido para fins educacionais e não possui fins comerciais.
 
