@@ -1,38 +1,25 @@
 # AluraBooks
 
-AluraBooks é um projeto de site para uma livraria online focada em tecnologia e desenvolvimento profissional. O site apresenta uma interface moderna, responsiva e com funcionalidades que facilitam a navegação e a compra de livros.
+Este é um projeto desenvolvido durante os estudos na Alura.
 
-## 🚀 Funcionalidades
-- Menu interativo com categorias de livros
-- Carrossel de novos lançamentos e mais vendidos
-- Seção de destaques e recomendações
-- Opções de favoritos, carrinho de compras e perfil do usuário
-
-## 📂 Estrutura do Projeto
-```
-AluraBooks/
-├── img/                  # Imagens utilizadas no projeto
-├── styles.css            # Estilos principais da aplicação
-├── reset.css             # Reset de estilos para padronização
-├── index.html            # Página principal do site
-└── README.md             # Documentação do projeto
-```
+## 📖 Sobre o Projeto
+O AluraBooks é uma plataforma para venda de livros online, desenvolvida com foco em responsividade utilizando a abordagem mobile-first.
 
 ## 🛠️ Tecnologias Utilizadas
-- HTML5
-- CSS3
-- Swiper.js (para carrossel interativo)
-- Google Fonts (Poppins e Josefin Sans)
+- HTML
+- CSS
 
-## 📌 Como Utilizar
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/AluraBooks.git
-   ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd AluraBooks
-   ```
-3. Abra o arquivo `index.html` em um navegador.
+## 📚 Curso Relacionado
+Este projeto foi desenvolvido como parte do curso da Alura **"HTML e CSS: responsividade com mobile-first"**.
 
+## 🎯 Objetivo
+O objetivo do projeto é aprimorar habilidades de desenvolvimento web, aplicando conceitos de responsividade e boas práticas de design.
+
+## 🚀 Como executar o projeto
+1. Clone este repositório.
+2. Abra o arquivo `index.html` em um navegador.
+
+---
+
+✍️ Desenvolvido durante os estudos na Alura.
 
